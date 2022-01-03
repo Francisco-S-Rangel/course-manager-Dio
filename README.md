@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
+This project was created based on bootcamp project.
+I hope you guys like my version.
+
+# Link Course and original Repository !
+
+LinkCourse: https://web.dio.me/course/introducao-ao-angular-8/learning/2d97a376-c570-45e3-9f32-f756f98804ab/?back=/browse
+LinkRepository: https://github.com/wesllhey/course-manager
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
