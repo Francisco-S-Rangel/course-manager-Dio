@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+body {
+    background-color: rgba(161, 206, 235, 0.755);
+}
+.aux_div {
+    margin-top: 2rem;
+}
